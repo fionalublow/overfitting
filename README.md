@@ -1,6 +1,8 @@
-package tqdm needs to be installed from conda-forge 
->conda install -c conda-forge tqdm
+# Approximating Images with Voronoi Diagrams and a Genetic Algorithm
 
-package colour-science from conda-forge as well
+## Coursework für AI Course at HAW Hamburg 
 
-Pycharm IDE settings -> invert image when dark theme -> OFF  
+Bildgeneration durch Evolution zu einem Zielbild, Umwandlung von punkt-
+basierten Genen in Voronoi-Diagrammen mit parallelisierbaren Algorith-
+men wie Jump Flooding und Beschleunigung der Umwandlung mit GPU-
+Programmierung (CUDA). 
